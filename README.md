@@ -2,13 +2,12 @@
 I'm Biranavan and I am currently studying Applied Computer Science with a specialization in Data Science at the University of Applied Science Berlin (HTW).
 
 # Interests
+Software Engineering
+
 Machine Learning
 
-Deep Learning
 
-Computer Vision
 
-Software Engineering
 
 
 # My Skills
