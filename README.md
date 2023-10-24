@@ -1,37 +1,24 @@
 # Hey Visitor!
-I'm Biranavan and I am currently studying Applied Computer Science with a specialization in Data Science at the University of Applied Science Berlin (HTW).
+I'm Biranavan and I am currently pursuing my Master of Science in Computer Science at the Technical University Berlin.
 
 # Interests
-Software Engineering
-
-Machine Learning
-
-
-
-
+- Software Engineering
+- Machine Learning
 
 # My Skills
-Java
-
-Spring Boot
-
-Postgres
-
-JavaScript
-
-Node.js
-
-MongoDB
-
-Python
-
-Scala
-
-Git
-
-GitHub
-
-CI/CD
-
-Docker
-
+- Java
+- Spring Boot
+- Postgres
+- JavaScript
+- Node.js
+- MongoDB
+- Python
+- Scala
+- Git
+- GitHub
+- CI/CD
+- Docker
+- Angular
+- TypeScript
+- PyTorch/Keras
+- TensorBoard
