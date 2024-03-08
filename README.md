@@ -1,17 +1,17 @@
 # Welcome to My Profile! 👋
 
-Hello, I'm Biranavan! I'm currently expanding my knowledge and skills by pursuing a Master of Science in Computer Science at the Technical University Berlin. Previously, I completed my Bachelor's degree with a specialization in Data Science, focusing primarily on Machine Learning. 
+Hello, I'm Biranavan! I'm on a journey of continual learning, currently pursuing a Master of Science in Computer Science at the Technical University Berlin. I hold a Bachelor's degree in Applied Computer Science with a specialization in Data Science from HTW Berlin, where I focused primarily on Machine Learning.
 
 ## 🎓 Education
 - **Master of Science in Computer Science** - Technical University Berlin
-- **Bachelor of Science (Specialization in Data Science)** - Focused on Machine Learning
+- **Bachelor of Science in Applied Computer Science** - Specialization in Data Science, HTW Berlin. Focused on Machine Learning.
 
 ## 🌟 Interests
-- Software Engineering
-- Machine Learning & Data Science
+- Software Engineering :computer:
+- Machine Learning & Data Science :chart_with_upwards_trend:
 
 ## 💼 Professional Certifications
-- Certified Cloud Practitioner
+- Certified Cloud Practitioner ☁️
 
 ## 🛠 Skills
 - **Programming Languages:** Java, JavaScript, Python, Scala, TypeScript
@@ -20,6 +20,7 @@ Hello, I'm Biranavan! I'm currently expanding my knowledge and skills by pursuin
 - **Tools & Platforms:** Git, GitHub, Docker, TensorBoard
 - **Practices:** CI/CD, Software Engineering Best Practices
 
-Feel free to explore my projects and connect with me on [GitHub](https://github.com/your-github-username) (replace 'your-github-username' with your actual GitHub username).
+## 📬 Connect With Me
+Feel free to explore my projects and connect with me on Github.
 
-Thank you for visiting my profile! 
+Thank you for visiting my profile! 😊
