@@ -11,7 +11,7 @@ Hello, I'm Biranavan! I'm on a journey of continual learning, currently pursuing
 - Machine Learning & Data Science :chart_with_upwards_trend:
 
 ## 💼 Professional Certifications
-- Certified Cloud Practitioner ☁️
+- Certified AWS Cloud Practitioner ☁️
 
 ## 🛠 Skills
 - **Programming Languages:** Java, JavaScript, Python, Scala, TypeScript
